@@ -20,7 +20,13 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./Application/');
 
+//自动创建应用目录文件
+//define('BIND_MODULE','Admin');
+
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
+
+
+
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
