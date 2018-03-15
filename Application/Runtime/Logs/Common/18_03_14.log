@@ -127,3 +127,15 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
 ERR: 无法加载模块:Glist
 
+[ 2018-03-14T20:11:41+08:00 ] 103.35.74.164 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Robots
+
+[ 2018-03-14T20:11:43+08:00 ] 103.35.74.164 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Favicon
+
