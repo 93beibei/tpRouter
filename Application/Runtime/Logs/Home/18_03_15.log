@@ -1362,3 +1362,9 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
 
+[ 2018-03-15T23:13:42+08:00 ] 106.11.242.132 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+
